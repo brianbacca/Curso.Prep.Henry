@@ -1,0 +1,9 @@
+Operados logicos.
+realisan aperaciones matematicas dentra de la logica buleana.
+&&= and true solo si los dos operados son true.
+||= or es true si una o ambas operaciones son true. 
+!= not devuelve un valor opuesto. 
+
+For.
+Es un bucle que se utuliza para realizar tareas repetitivas pero nosotros tenemos que conocer la condicion de parada 
+ 
