@@ -1,0 +1,1 @@
+Arrays o arreglos son listas de elementos, se definen entre corchetes o braketes, pueden ser cualquier tipo de datos; es decir dentro de el puede haber números, function, null,sitring,etc. Son tipo de dato pero no son nativos.
