@@ -1,0 +1,7 @@
+Objetos : Un objetos es una colección de propiedades.
+Propiedades: Es una asociacion enre un nombre (o clave) y un valor.
+Métodos: son funciones dentro de un objeto.
+bucle for in: itera sobre las propiedades enumerables de un objeto.
+Notación de puntos vs notación de corchetes: Son operadores de miembro que proporcionan accesos a las propiedades y metodos de un objeto.
+La notacion con puntos es mas rapida de escribir y mas clara de leer.
+La notacion de corchetes permite el acceso a propiedades que contienen caracteres especiales y seleccion de propiedades usando variables; ademas podemos ingresar a la propiedad sin conocer exactamente el nombre del objeto.
