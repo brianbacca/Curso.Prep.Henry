@@ -1,0 +1,1 @@
+funciones callbacks: pasamos la capacidad de función como argumento a otra función.
