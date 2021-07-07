@@ -36,7 +36,9 @@ function agregarItemAlFinalDelArray(array, elemento) {
   // Añade el "elemento" al final del array
   // y devuelve el array
   // Tu código:
-  array[array.length] = elemento;
+  // array[array.length] = elemento;
+  // return array;
+  array.push(elemento);
   return array;
 }
 
@@ -58,6 +60,7 @@ function dePalabrasAFrase(palabras) {
   // Ejemplo: ['Hello', 'world!'] -> 'Hello world!'
   // Tu código:
   return palabras.join(' '); 
+ 
 }
 
 
@@ -228,15 +231,13 @@ function breakStatement(numero) {
     nuevoArray.push(suma);
     }
   }
-    if(i < 10){
+    if(i === suma){
     return "Se interrumpió la ejecución";
   } 
   else {
     return nuevoArray;
   }
-
-  }
-
+}
 
 function continueStatement(numero) {
   //Iterar en un bucle aumentando en 2 el numero recibido hasta un límite de 10 veces.
