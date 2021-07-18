@@ -62,6 +62,16 @@ function agregarStringInvertida() {
   };
 }
 
+// String.prototype.reverse = function (){
+//   this.stringInv = [];
+//   for(var i =0; i <this.length; i++){
+//     var stringInv = stringInv.unshift(this[i]);
+//   }
+// }
+// return stringInv.join(" ");
+// };
+
+
 
 // ---------------------------------------------------------------------------//
   //Crea el constructor de la clase "Persona"
